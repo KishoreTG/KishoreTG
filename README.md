@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Beginner Projects
 - 📫 How to reach me ...
 
-Twitter: https://twitter.com/tkish_innovate
+Twitter: https://twitter.com/darkdev_kishore
 
 <!---
 KishoreTG/KishoreTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
