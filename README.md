@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @KishoreTG
 - 💞️ I’m looking to collaborate on beginner projects
 - 🌱 My works
+
 Replit: https://replit.com/@tkishore
+
 - 📫 How to reach me ...
+
 Twitter: https://twitter.com/darkdev_kishore
 
 <!---
