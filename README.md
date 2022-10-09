@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @KishoreTG
-- 👀 I’m interested in Mathematics, Programming, Game Development.
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on Beginner Projects
+- 💞️ I’m looking to collaborate on beginner projects
+- 🌱 My works
+Replit: https://replit.com/@tkishore
 - 📫 How to reach me ...
-
 Twitter: https://twitter.com/darkdev_kishore
 
 <!---
